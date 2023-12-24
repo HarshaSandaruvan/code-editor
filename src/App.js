@@ -9,6 +9,7 @@ function App() {
   const [srcDoc, setSrcDoc] = useState('')
 
   useEffect(() => {
+    // stop after user add input rendering
     const timeOut = setTimeout(() => {
       setSrcDoc(`
           <html>

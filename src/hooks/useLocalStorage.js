@@ -1,6 +1,7 @@
 import { prefix } from '@fortawesome/free-solid-svg-icons'
 import { useEffect, useState } from 'react'
 
+// this is for stop adding another web details for those keys
 const PREFIX = 'codeEditor-clone-'
 
 export default function useLocalStorage(key, initialValue) {
