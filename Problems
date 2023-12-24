@@ -1,3 +1,0 @@
-Package path ./theme/material.css is not exported from package D:\React Apps\Code Editor\code-editor\node_modules\codemirror (see exports field in D:\React Apps\Code Editor\code-editor\node_modules\codemirror\package.json)
-
-solution : search google and find codemirror version dismatch
